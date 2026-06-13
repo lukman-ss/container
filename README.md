@@ -1,5 +1,7 @@
 # Lukman Container
 
+![Lukman Container](docs/hero.png)
+
 A lightweight dependency injection container for PHP 8.2+ with zero runtime dependencies.
 
 ## Features
